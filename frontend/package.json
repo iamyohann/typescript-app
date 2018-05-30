@@ -13,17 +13,6 @@
     "test": "react-scripts-ts test --env=jsdom",
     "eject": "react-scripts-ts eject"
   },
-  "jest": {
-    "moduleFileExtensions": [
-      "ts",
-      "tsx",
-      "js"
-    ],
-    "transform": {
-      "\\.(ts|tsx)$": "<rootDir>/node_modules/ts-jest/preprocessor.js"
-    },
-    "testRegex": "/__tests__/.*\\.(ts|tsx|js)$"
-  },
   "devDependencies": {
     "@types/jest": "^22.2.3",
     "@types/node": "^10.1.0",
