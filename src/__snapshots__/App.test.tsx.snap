@@ -4,6 +4,11 @@ exports[`renders according to the snapshot 1`] = `
 <div
   className="App"
 >
-  Lol
+  <input
+    placeholder="Type something..."
+  />
+  <button>
+    Add
+  </button>
 </div>
 `;
